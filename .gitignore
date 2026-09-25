@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+demofastapi/
+.DS_Store
+.venv/
+venv/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
